@@ -1,0 +1,16 @@
+body{
+    color: brown;
+    background-color: black
+}
+div {
+    color: white;
+    margin: 1px;
+    }
+    .block {
+    background: darkblue;
+    /* display: block; */
+    }
+    .inline {
+    background: darkred;
+    display: inline;
+    }
